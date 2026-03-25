@@ -20,4 +20,7 @@ export default defineNuxtConfig({
       defaultLocale: "en",
     },
   },
+  nitro: {
+    preset: "vercel",
+  },
 });
