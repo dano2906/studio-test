@@ -3,6 +3,7 @@
 This is the main page displaying Markdown located at [content/index.md](https://github.com/nuxt/starter/blob/content/content/index.md).
 
 Move to [about](/about) page.
+Mote to [studio](/_studio) page.
 
 ## Manage your Contents
 
